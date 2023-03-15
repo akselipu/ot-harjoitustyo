@@ -1,0 +1,108 @@
+file1 poisto ja file2 uudelleennimetty file22.txt
+
+ files/file2.txt                 | 0
+ files/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 752fb8f440dd83b81e2cd3dfe1340d93e2f510f6
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:57:06 2023 +0200
+
+    filejen committaus kerralla
+
+ files/file1.txt | 0
+ files/file2.txt | 0
+ files/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4b0aacd5bc92f4a23048d3316e4e919e0933e363
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:28:37 2023 +0200
+
+    muutokset eka.txt ja kolmas.txt
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 2 ++
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 815a7020ad80216d3ce6ca620eb7b76b88d6834e
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:26:02 2023 +0200
+
+    tiedosto.txt:n nimenmuutos eka.txt
+
+ eka.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 03900b08bcb5b654ca36f5e8321aafc829e45602
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:25:20 2023 +0200
+
+    tiedosto.txt:n nimenmuutos eka.txt
+
+ tiedosto.txt | 3 ---
+ 1 file changed, 3 deletions(-)
+
+commit 649c57983ba9eef588a5ccd98de5878fde429fc5
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:22:57 2023 +0200
+
+    poisto
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c61cb7a894bf5d7c28543745ce86b7c77cab6265
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:19:48 2023 +0200
+
+    tiedosto.txt:n TOINEN commit tekstin poiston jälkeen
+
+ tiedosto.txt | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+commit 1c2528de2b082998789260d5a481c0348c17b4ca
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:18:41 2023 +0200
+
+    tiedosto.txt:n commit tekstin lisäyksen jälkeen
+
+ tiedosto.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit fa5f0cb0fc2807f0868659eeaf2b8fca38049e2e
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:09:29 2023 +0200
+
+    neljännen tiedoston committi
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 21f13516008d21e4150094e942a1dac8a25e93a0
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Tue Mar 14 12:08:03 2023 +0200
+
+    kolmannen tiedoston committi
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9e0471f81267eb31f4cf9b6a22b6856ed823c14d
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Mon Mar 13 22:24:44 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit ada6fb8fa56c371c1acd197081623b9968fb3744
+Author: Akseli Puustinen <akseli.puustinen@gmail.com>
+Date:   Mon Mar 13 22:21:09 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
